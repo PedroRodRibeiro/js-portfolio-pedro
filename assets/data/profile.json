@@ -9,19 +9,19 @@
       "hardSkills": [
         {
           "name": "JavaScript",
-          "logo": "https://github.com/PedroRodRibeiro/js-developer-portfolio/blob/main/data/imgs/js.png"
+          "logo": "https://github.com/PedroRodRibeiro/js-portfolio-pedro/blob/main/assets/img/js.png"
         },
         {
           "name": "HTML",
-          "logo": "https://github.com/PedroRodRibeiro/js-developer-portfolio/blob/main/data/imgs/html.png"
+          "logo": "https://github.com/PedroRodRibeiro/js-portfolio-pedro/blob/main/assets/img/html.png"
         },
         {
           "name": "CSS",
-          "logo": "https://github.com/PedroRodRibeiro/js-developer-portfolio/blob/main/data/imgs/css.png"
+          "logo": "https://github.com/PedroRodRibeiro/js-portfolio-pedro/blob/main/assets/img/css.png"
         },
         {
           "name": "Github",
-          "logo": "https://github.com/PedroRodRibeiro/js-developer-portfolio/blob/main/data/imgs/github.png"
+          "logo": "https://github.com/PedroRodRibeiro/js-portfolio-pedro/blob/main/assets/img/github.png"
         }
       ],
       "softSkills": [
